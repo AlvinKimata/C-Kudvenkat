@@ -1,0 +1,15 @@
+C:\Users\Alvin.Kimata\Documents\C# basics\bin\Debug\net6.0\C# basics.exe
+C:\Users\Alvin.Kimata\Documents\C# basics\bin\Debug\net6.0\C# basics.deps.json
+C:\Users\Alvin.Kimata\Documents\C# basics\bin\Debug\net6.0\C# basics.runtimeconfig.json
+C:\Users\Alvin.Kimata\Documents\C# basics\bin\Debug\net6.0\C# basics.dll
+C:\Users\Alvin.Kimata\Documents\C# basics\bin\Debug\net6.0\C# basics.pdb
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\C# basics.csproj.AssemblyReference.cache
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\C# basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\C# basics.AssemblyInfoInputs.cache
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\C# basics.AssemblyInfo.cs
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\C# basics.csproj.CoreCompileInputs.cache
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\C# basics.dll
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\refint\C# basics.dll
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\C# basics.pdb
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\C# basics.genruntimeconfig.cache
+C:\Users\Alvin.Kimata\Documents\C# basics\obj\Debug\net6.0\ref\C# basics.dll
