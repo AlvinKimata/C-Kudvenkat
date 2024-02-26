@@ -1,16 +1,27 @@
 ﻿using System;
 
-class Program
+namespace ConsoleApp1
 {
-    static void Main()
+    class Program
     {
-        //Prompt user for name.
-        Console.WriteLine("Please enter your name");
+        public static void Main()
+        {
+            //Display double quotes.
+            string Name = "\"Pragim\"";
+            Console.WriteLine(Name);
 
-        //Read name from console.
-        string userName = Console.ReadLine();
+            //Display new line character in C#
+            Name = "One\nTwo\nThree\n";
+            Console.WriteLine(Name);
 
-        //Concatenate name and write to console.
-        Console.WriteLine("Hello {0}", userName);;
+            //Display new line character.
+            Name = "C:\\Pragim\\Dotnet\\Training";
+            Console.WriteLine(Name);
+
+            //C# verbal literal.
+            Name = @"C:\Pragim\\Dotnet\Training";
+            Console.WriteLine(Name);
+
+        }
     }
 }
