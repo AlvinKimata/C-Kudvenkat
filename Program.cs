@@ -1,10 +1,16 @@
 ﻿using System;
 
-class Pragim
+class Program
 {
-    public static void Main()
+    static void Main()
     {
-        //Write to console.
-        Console.WriteLine("Welcome to Pragim tech");
+        //Prompt user for name.
+        Console.WriteLine("Please enter your name");
+
+        //Read name from console.
+        string userName = Console.ReadLine();
+
+        //Concatenate name and write to console.
+        Console.WriteLine("Hello {0}", userName);;
     }
 }
